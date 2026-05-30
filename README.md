@@ -1,8 +1,8 @@
-# Mi Linux
+# MYLinux
 
 ## Introducción
 
-**Mi Linux** es un repositorio personal dedicado a documentar mi proceso de aprendizaje, exploración y personalización de **Arch Linux** con **Hyprland** como gestor de ventanas principal.
+**MYLinux** es un repositorio personal dedicado a documentar mi proceso de aprendizaje, exploración y personalización de **Arch Linux** con **Hyprland** como gestor de ventanas principal.
 
 El objetivo de este proyecto es centralizar configuraciones, notas, procedimientos y herramientas utilizadas durante la construcción de un entorno Linux moderno, ligero y altamente personalizable. Además de servir como referencia personal, este repositorio también puede ayudar a otros usuarios interesados en comprender cómo construir su propio entorno basado en Arch Linux.
 
