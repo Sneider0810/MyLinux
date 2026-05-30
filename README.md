@@ -446,4 +446,4 @@ Cada nueva configuración, ajuste, script o descubrimiento dentro del ecosistema
 
 Si encuentras alguna mejora posible, detectas errores o simplemente quieres compartir ideas, comentarios o sugerencias, cualquier contribución será bienvenida.
 
-**Bienvenido a Mi Linux.**
+**Bienvenido a MyLinux.**
