@@ -520,6 +520,6 @@ Cada nueva configuración, ajuste, script o descubrimiento se documentará aquí
 
 Si encuentras alguna mejora, detectas errores o quieres compartir ideas, cualquier contribución es bienvenida.
 
-**Bienvenido a MyLinux. **
+**Bienvenido a MyLinux.**
 
 </div>
