@@ -34,7 +34,7 @@ El objetivo es centralizar configuraciones, notas, procedimientos y herramientas
 
 ## Índice
 
--[Instalación de Arch Linux](#-instalación-de-arch-linux)
+- [ Instalación de Arch Linux ](#-instalación-de-arch-linux)
  - [Sistema único (disco vacío)](#-sistema-único-disco-vacío)
  - [Dual Boot con Windows](#-dual-boot-con-windows)
 - [Configuración inicial](#-configuración-inicial)
