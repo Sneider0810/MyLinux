@@ -35,16 +35,16 @@ El objetivo es centralizar configuraciones, notas, procedimientos y herramientas
 ## Índice
 
 - [ Instalación de Arch Linux ](#-instalación-de-arch-linux)
- - [Sistema único (disco vacío)](#-sistema-único-disco-vacío)
- - [Dual Boot con Windows](#-dual-boot-con-windows)
-- [Configuración inicial](#-configuración-inicial)
-- [Gestor de sesión — SDDM](#-gestor-de-sesión--sddm)
-- [Hyprland](#-hyprland)
-- [Herramientas esenciales](#-herramientas-esenciales)
-- [Instalación de paquetes](#-instalación-de-paquetes)
-- [Gestión de dotfiles](#-gestión-de-dotfiles)
-- [Scripts personalizados](#-scripts-personalizados)
-- [Documentación oficial](#-documentación-oficial)
+ - [ Sistema único (disco vacío) ](#-sistema-único-disco-vacío)
+ - [ Dual Boot con Windows ](#-dual-boot-con-windows)
+- [ Configuración inicial ](#-configuración-inicial)
+- [ Gestor de sesión — SDDM ](#-gestor-de-sesión--sddm)
+- [ Hyprland ](#-hyprland)
+- [ Herramientas esenciales ](#-herramientas-esenciales)
+- [ Instalación de paquetes ](#-instalación-de-paquetes)
+- [ Gestión de dotfiles ](#-gestión-de-dotfiles)
+- [ Scripts personalizados ](#-scripts-personalizados)
+- [ Documentación oficial ](#-documentación-oficial)
 
 ---
 
